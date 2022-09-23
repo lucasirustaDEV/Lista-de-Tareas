@@ -10,7 +10,7 @@
       "id": 2,
       "text": "Dormir la siesta",
       "day": "Agosto 6 a las 16:30",
-      "reminder": true
+      "reminder": false
     },
     {
       "id": 3,
@@ -22,7 +22,7 @@
       "id": 4,
       "text": "Leer un Libro",
       "day": "Agosto 8 a las 20:00",
-      "reminder": true
+      "reminder": false
     }
   ]
 }
